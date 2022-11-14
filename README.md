@@ -1,6 +1,9 @@
 # D-NeuS
 **Recovering Fine Details for Neural Implicit Surface Reconstruction (WACV2023)**
 
+![scan37](gifs/scan37.gif)
+
+![scan110](gifs/scan110.gif)
 
 ## Code
 D-NeuS is built on [NeuS](https://github.com/Totoro97/NeuS). It improves the surface reconstruction quality with fine details recovered.
